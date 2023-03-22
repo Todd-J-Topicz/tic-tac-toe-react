@@ -3,8 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-# Title
-Tic-Tac-Toe My First React App
+# Tic-Tac-Toe My First React App
 
 ## Description
 Learned how to code a tic-tac-toe app using new React concepts
@@ -24,10 +23,13 @@ Learned how to code a tic-tac-toe app using new React concepts
 Interactive Tic-Tac-Toe game for fun.
 
 ## Contributors
-n/a
+Todd J. Topicz
 
 ## Tests
 Tested extensively using React's native development server.
+
+## Screenshot of application
+![alt text](assets/images/tic-tac-toe.png)
 
 Contact information (email address & GitHub username) of the developer
 ## Questions
